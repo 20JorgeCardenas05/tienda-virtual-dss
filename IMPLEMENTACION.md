@@ -166,6 +166,7 @@ npm start
 
 En otra terminal:
 
+
 ```bash
 cd frontend
 npm run dev
