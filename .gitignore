@@ -1,0 +1,16 @@
+node_modules
+**/node_modules/
+.env
+.env.*
+!.env.example
+dist
+build
+coverage
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+frontend/cypress/videos/
+# Screenshots de evidencia se conservan para el reporte
+# frontend/cypress/screenshots/
